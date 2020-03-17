@@ -1,24 +1,7 @@
-# README
+# "Makeup Time" Rails Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to the beautiful world of makeup, where you can browse different brands and their most popular products with the help of our applicatiion built with Ruby on Rails.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Installation
+1. Clone this repo, cd into that directory, and run **rails s** to startup the Rails server.
+1. Now that the server is running properly, you can verify that it's working properly in the browser by navigating to http://localhost:3000/.
